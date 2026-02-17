@@ -5,7 +5,7 @@
 ![Library](https://img.shields.io/badge/Library-Pandas%20%7C%20Seaborn%20%7C%20Scikit--Learn-orange)
 
 ## 👋 Hi, I'm Mehmet!
-<img src="githubprofilepicture.jpg" width="150" align="right" alt="Mehmet Clk 16-bit Avatar">
+<img src="https://avatars.githubusercontent.com/u/261870524?v=4" width="150" align="right" alt="Mehmet Clk 16-bit Avatar">
 
 I am a **Junior Data Analyst** passionate about uncovering insights from complex datasets. This project is part of my portfolio to demonstrate my skills in **Data Mining, Machine Learning, and Visualization**.
 
